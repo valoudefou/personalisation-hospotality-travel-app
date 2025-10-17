@@ -11,7 +11,7 @@ flowchart TD
     %% Session 2 - App Visit
     F1 --> A2[Session 2: App Visit same day]
     A2 --> B2[User logs into Accor app]
-    B2 --> C2[Previous search retrieved automatically<br>Cross-channel consistency @Val]
+    B2 --> C2[Previous search retrieved automatically<br>Cross-channel consistency]
     C2 --> D2[Clicks Search<br>Results ranked by Family Traveler profile]
     D2 --> E2[Sees Fairmont Hotel Macdonald]
     E2 --> F2[Clicks hotel page]
