@@ -9,7 +9,7 @@ flowchart TD
     F1 --> G1[Audience built in Wandz - Family Traveler, Gold, Canada trip]
 
     %% Session 2 - App Visit
-    F1 --> A2[Session 2: App Visit (same day)]
+    F1 --> A2[Session 2: App Visit same day]
     A2 --> B2[User logs into Accor app]
     B2 --> C2[Previous search retrieved automatically<br>Cross-channel consistency @Val]
     C2 --> D2[Clicks Search<br>Results ranked by Family Traveler profile]
